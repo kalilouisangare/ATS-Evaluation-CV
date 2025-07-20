@@ -35,7 +35,7 @@ ATS Resume Screener est une application conçue pour automatiser et optimiser le
     ```
 3.  Lancez l'application :
     ```bash
-    streamlit run app_production.py
+    streamlit run app_public.py
     ```
 
 ## Contribuer
