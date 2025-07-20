@@ -27,7 +27,7 @@ ATS Resume Screener est une application conçue pour automatiser et optimiser le
 
 1.  Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/votre-repo.git
+    git clone https://github.com/kalilouisangare/ATS-Evaluation-CV.git
     ```
 2.  Installez les dépendances :
     ```bash
