@@ -1,4 +1,4 @@
-# ATS Resume Screener
+# ATS Evaluation CV
 
 ATS Resume Screener est une application conçue pour automatiser et optimiser le processus de recrutement. En utilisant des techniques avancées de traitement du langage naturel (NLP), cette application analyse et évalue les CVs des candidats par rapport aux exigences spécifiques d'un poste, permettant ainsi aux recruteurs de se concentrer sur les candidats les plus qualifiés.
 
